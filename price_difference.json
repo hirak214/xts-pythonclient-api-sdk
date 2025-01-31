@@ -1,0 +1,352 @@
+{
+    "TITAN": {
+        "NearMonthTicker": "TITAN24NOVFUT",
+        "NearMonthPrice": 3173.8,
+        "FarMonthTicker": "TITAN24DECFUT",
+        "FarMonthPrice": 3192.7,
+        "PriceDifference": 0.6
+    },
+    "ADANIENT": {
+        "NearMonthTicker": "ADANIENT24NOVFUT",
+        "NearMonthPrice": 2821.65,
+        "FarMonthTicker": "ADANIENT24DECFUT",
+        "FarMonthPrice": 2840.45,
+        "PriceDifference": 0.67
+    },
+    "BAJFINANCE": {
+        "NearMonthTicker": "BAJFINANCE24NOVFUT",
+        "NearMonthPrice": 6563.95,
+        "FarMonthTicker": "BAJFINANCE24DECFUT",
+        "FarMonthPrice": 6607.35,
+        "PriceDifference": 0.66
+    },
+    "CIPLA": {
+        "NearMonthTicker": "CIPLA24NOVFUT",
+        "NearMonthPrice": 1499.7,
+        "FarMonthTicker": "CIPLA24DECFUT",
+        "FarMonthPrice": 1508.65,
+        "PriceDifference": 0.6
+    },
+    "HINDALCO": {
+        "NearMonthTicker": "HINDALCO24NOVFUT",
+        "NearMonthPrice": 625.55,
+        "FarMonthTicker": "HINDALCO24DECFUT",
+        "FarMonthPrice": 630.15,
+        "PriceDifference": 0.74
+    },
+    "WIPRO": {
+        "NearMonthTicker": "WIPRO24NOVFUT",
+        "NearMonthPrice": 565.95,
+        "FarMonthTicker": "WIPRO24DECFUT",
+        "FarMonthPrice": 569.1,
+        "PriceDifference": 0.56
+    },
+    "TATASTEEL": {
+        "NearMonthTicker": "TATASTEEL24NOVFUT",
+        "NearMonthPrice": 137.81,
+        "FarMonthTicker": "TATASTEEL24DECFUT",
+        "FarMonthPrice": 138.74,
+        "PriceDifference": 0.67
+    },
+    "SUNPHARMA": {
+        "NearMonthTicker": "SUNPHARMA24NOVFUT",
+        "NearMonthPrice": 1772.7,
+        "FarMonthTicker": "SUNPHARMA24DECFUT",
+        "FarMonthPrice": 1783.3,
+        "PriceDifference": 0.6
+    },
+    "UPL": {
+        "NearMonthTicker": "UPL24NOVFUT",
+        "NearMonthPrice": 523.45,
+        "FarMonthTicker": "UPL24DECFUT",
+        "FarMonthPrice": 526.6,
+        "PriceDifference": 0.6
+    },
+    "BPCL": {
+        "NearMonthTicker": "BPCL24NOVFUT",
+        "NearMonthPrice": 297.6,
+        "FarMonthTicker": "BPCL24DECFUT",
+        "FarMonthPrice": 298.45,
+        "PriceDifference": 0.29
+    },
+    "BHARTIARTL": {
+        "NearMonthTicker": "BHARTIARTL24NOVFUT",
+        "NearMonthPrice": 1554.5,
+        "FarMonthTicker": "BHARTIARTL24DECFUT",
+        "FarMonthPrice": 1564,
+        "PriceDifference": 0.61
+    },
+    "POWERGRID": {
+        "NearMonthTicker": "POWERGRID24NOVFUT",
+        "NearMonthPrice": 312.9,
+        "FarMonthTicker": "POWERGRID24DECFUT",
+        "FarMonthPrice": 314.9,
+        "PriceDifference": 0.64
+    },
+    "AXISBANK": {
+        "NearMonthTicker": "AXISBANK24NOVFUT",
+        "NearMonthPrice": 1142.65,
+        "FarMonthTicker": "AXISBANK24DECFUT",
+        "FarMonthPrice": 1149.65,
+        "PriceDifference": 0.61
+    },
+    "BAJAJFINSV": {
+        "NearMonthTicker": "BAJAJFINSV24NOVFUT",
+        "NearMonthPrice": 1643.2,
+        "FarMonthTicker": "BAJAJFINSV24DECFUT",
+        "FarMonthPrice": 1654.1,
+        "PriceDifference": 0.66
+    },
+    "HDFCBANK": {
+        "NearMonthTicker": "HDFCBANK24NOVFUT",
+        "NearMonthPrice": 1696.65,
+        "FarMonthTicker": "HDFCBANK24DECFUT",
+        "FarMonthPrice": 1707.55,
+        "PriceDifference": 0.64
+    },
+    "HDFCLIFE": {
+        "NearMonthTicker": "HDFCLIFE24NOVFUT",
+        "NearMonthPrice": 695.5,
+        "FarMonthTicker": "HDFCLIFE24DECFUT",
+        "FarMonthPrice": 700.3,
+        "PriceDifference": 0.69
+    },
+    "ICICIBANK": {
+        "NearMonthTicker": "ICICIBANK24NOVFUT",
+        "NearMonthPrice": 1256.3,
+        "FarMonthTicker": "ICICIBANK24DECFUT",
+        "FarMonthPrice": 1264.35,
+        "PriceDifference": 0.64
+    },
+    "APOLLOHOSP": {
+        "NearMonthTicker": "APOLLOHOSP24NOVFUT",
+        "NearMonthPrice": 6849.65,
+        "FarMonthTicker": "APOLLOHOSP24DECFUT",
+        "FarMonthPrice": 6895,
+        "PriceDifference": 0.66
+    },
+    "INFY": {
+        "NearMonthTicker": "INFY24NOVFUT",
+        "NearMonthPrice": 1866.65,
+        "FarMonthTicker": "INFY24DECFUT",
+        "FarMonthPrice": 1877.9,
+        "PriceDifference": 0.6
+    },
+    "ONGC": {
+        "NearMonthTicker": "ONGC24NOVFUT",
+        "NearMonthPrice": 251.5,
+        "FarMonthTicker": "ONGC24DECFUT",
+        "FarMonthPrice": 252.9,
+        "PriceDifference": 0.56
+    },
+    "SBILIFE": {
+        "NearMonthTicker": "SBILIFE24NOVFUT",
+        "NearMonthPrice": 1564.25,
+        "FarMonthTicker": "SBILIFE24DECFUT",
+        "FarMonthPrice": 1574.95,
+        "PriceDifference": 0.68
+    },
+    "BRITANNIA": {
+        "NearMonthTicker": "BRITANNIA24NOVFUT",
+        "NearMonthPrice": 4911.25,
+        "FarMonthTicker": "BRITANNIA24DECFUT",
+        "FarMonthPrice": 4944.95,
+        "PriceDifference": 0.69
+    },
+    "RELIANCE": {
+        "NearMonthTicker": "RELIANCE24NOVFUT",
+        "NearMonthPrice": 1273.7,
+        "FarMonthTicker": "RELIANCE24DECFUT",
+        "FarMonthPrice": 1281.35,
+        "PriceDifference": 0.6
+    },
+    "TECHM": {
+        "NearMonthTicker": "TECHM24NOVFUT",
+        "NearMonthPrice": 1683.25,
+        "FarMonthTicker": "TECHM24DECFUT",
+        "FarMonthPrice": 1693.3,
+        "PriceDifference": 0.6
+    },
+    "ULTRACEMCO": {
+        "NearMonthTicker": "ULTRACEMCO24NOVFUT",
+        "NearMonthPrice": 10740.9,
+        "FarMonthTicker": "ULTRACEMCO24DECFUT",
+        "FarMonthPrice": 10775.3,
+        "PriceDifference": 0.32
+    },
+    "M&M": {
+        "NearMonthTicker": "M&M24NOVFUT",
+        "NearMonthPrice": 2804.85,
+        "FarMonthTicker": "M&M24DECFUT",
+        "FarMonthPrice": 2822.3,
+        "PriceDifference": 0.62
+    },
+    "NTPC": {
+        "NearMonthTicker": "NTPC24NOVFUT",
+        "NearMonthPrice": 373.7,
+        "FarMonthTicker": "NTPC24DECFUT",
+        "FarMonthPrice": 376.1,
+        "PriceDifference": 0.64
+    },
+    "SHREECEM": {
+        "NearMonthTicker": "SHREECEM24NOVFUT",
+        "NearMonthPrice": 24051.2,
+        "FarMonthTicker": "SHREECEM24DECFUT",
+        "FarMonthPrice": 23893.95,
+        "PriceDifference": -0.65
+    },
+    "HCLTECH": {
+        "NearMonthTicker": "HCLTECH24NOVFUT",
+        "NearMonthPrice": 1856.45,
+        "FarMonthTicker": "HCLTECH24DECFUT",
+        "FarMonthPrice": 1868.6,
+        "PriceDifference": 0.65
+    },
+    "HINDUNILVR": {
+        "NearMonthTicker": "HINDUNILVR24NOVFUT",
+        "NearMonthPrice": 2392.95,
+        "FarMonthTicker": "HINDUNILVR24DECFUT",
+        "FarMonthPrice": 2408.45,
+        "PriceDifference": 0.65
+    },
+    "COALINDIA": {
+        "NearMonthTicker": "COALINDIA24NOVFUT",
+        "NearMonthPrice": 411.4,
+        "FarMonthTicker": "COALINDIA24DECFUT",
+        "FarMonthPrice": 414.2,
+        "PriceDifference": 0.68
+    },
+    "DIVISLAB": {
+        "NearMonthTicker": "DIVISLAB24NOVFUT",
+        "NearMonthPrice": 5744.9,
+        "FarMonthTicker": "DIVISLAB24DECFUT",
+        "FarMonthPrice": 5775,
+        "PriceDifference": 0.52
+    },
+    "KOTAKBANK": {
+        "NearMonthTicker": "KOTAKBANK24NOVFUT",
+        "NearMonthPrice": 1707.75,
+        "FarMonthTicker": "KOTAKBANK24DECFUT",
+        "FarMonthPrice": 1718.9,
+        "PriceDifference": 0.65
+    },
+    "JSWSTEEL": {
+        "NearMonthTicker": "JSWSTEEL24NOVFUT",
+        "NearMonthPrice": 938.85,
+        "FarMonthTicker": "JSWSTEEL24DECFUT",
+        "FarMonthPrice": 944.9,
+        "PriceDifference": 0.64
+    },
+    "NESTLEIND": {
+        "NearMonthTicker": "NESTLEIND24NOVFUT",
+        "NearMonthPrice": 2191,
+        "FarMonthTicker": "NESTLEIND24DECFUT",
+        "FarMonthPrice": 2204,
+        "PriceDifference": 0.59
+    },
+    "BAJAJ-AUTO": {
+        "NearMonthTicker": "BAJAJ-AUTO24NOVFUT",
+        "NearMonthPrice": 9496.35,
+        "FarMonthTicker": "BAJAJ-AUTO24DECFUT",
+        "FarMonthPrice": 9555.2,
+        "PriceDifference": 0.62
+    },
+    "ITC": {
+        "NearMonthTicker": "ITC24NOVFUT",
+        "NearMonthPrice": 466.25,
+        "FarMonthTicker": "ITC24DECFUT",
+        "FarMonthPrice": 468.65,
+        "PriceDifference": 0.51
+    },
+    "IOC": {
+        "NearMonthTicker": "IOC24NOVFUT",
+        "NearMonthPrice": 135.47,
+        "FarMonthTicker": "IOC24DECFUT",
+        "FarMonthPrice": 136.35,
+        "PriceDifference": 0.65
+    },
+    "TATAMOTORS": {
+        "NearMonthTicker": "TATAMOTORS24NOVFUT",
+        "NearMonthPrice": 777.9,
+        "FarMonthTicker": "TATAMOTORS24DECFUT",
+        "FarMonthPrice": 782.65,
+        "PriceDifference": 0.61
+    },
+    "GRASIM": {
+        "NearMonthTicker": "GRASIM24NOVFUT",
+        "NearMonthPrice": 2512.6,
+        "FarMonthTicker": "GRASIM24DECFUT",
+        "FarMonthPrice": 2527.1,
+        "PriceDifference": 0.58
+    },
+    "ADANIPORTS": {
+        "NearMonthTicker": "ADANIPORTS24NOVFUT",
+        "NearMonthPrice": 1266.45,
+        "FarMonthTicker": "ADANIPORTS24DECFUT",
+        "FarMonthPrice": 1274.55,
+        "PriceDifference": 0.64
+    },
+    "ASIANPAINT": {
+        "NearMonthTicker": "ASIANPAINT24NOVFUT",
+        "NearMonthPrice": 2478.15,
+        "FarMonthTicker": "ASIANPAINT24DECFUT",
+        "FarMonthPrice": 2489.2,
+        "PriceDifference": 0.45
+    },
+    "TCS": {
+        "NearMonthTicker": "TCS24NOVFUT",
+        "NearMonthPrice": 4140.5,
+        "FarMonthTicker": "TCS24DECFUT",
+        "FarMonthPrice": 4166.85,
+        "PriceDifference": 0.64
+    },
+    "DRREDDY": {
+        "NearMonthTicker": "DRREDDY24NOVFUT",
+        "NearMonthPrice": 1231.05,
+        "FarMonthTicker": "DRREDDY24DECFUT",
+        "FarMonthPrice": 1237.95,
+        "PriceDifference": 0.56
+    },
+    "HEROMOTOCO": {
+        "NearMonthTicker": "HEROMOTOCO24NOVFUT",
+        "NearMonthPrice": 4612.55,
+        "FarMonthTicker": "HEROMOTOCO24DECFUT",
+        "FarMonthPrice": 4636.7,
+        "PriceDifference": 0.52
+    },
+    "SBIN": {
+        "NearMonthTicker": "SBIN24NOVFUT",
+        "NearMonthPrice": 805.75,
+        "FarMonthTicker": "SBIN24DECFUT",
+        "FarMonthPrice": 810.85,
+        "PriceDifference": 0.63
+    },
+    "LT": {
+        "NearMonthTicker": "LT24NOVFUT",
+        "NearMonthPrice": 3532.95,
+        "FarMonthTicker": "LT24DECFUT",
+        "FarMonthPrice": 3555.2,
+        "PriceDifference": 0.63
+    },
+    "EICHERMOT": {
+        "NearMonthTicker": "EICHERMOT24NOVFUT",
+        "NearMonthPrice": 4875.1,
+        "FarMonthTicker": "EICHERMOT24DECFUT",
+        "FarMonthPrice": 4904.95,
+        "PriceDifference": 0.61
+    },
+    "INDUSINDBK": {
+        "NearMonthTicker": "INDUSINDBK24NOVFUT",
+        "NearMonthPrice": 1019.25,
+        "FarMonthTicker": "INDUSINDBK24DECFUT",
+        "FarMonthPrice": 1025.3,
+        "PriceDifference": 0.59
+    },
+    "MARUTI": {
+        "NearMonthTicker": "MARUTI24NOVFUT",
+        "NearMonthPrice": 10982.75,
+        "FarMonthTicker": "MARUTI24DECFUT",
+        "FarMonthPrice": 11056.75,
+        "PriceDifference": 0.67
+    }
+}

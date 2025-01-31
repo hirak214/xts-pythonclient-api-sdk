@@ -1,0 +1,802 @@
+{
+    "38975": {
+        "ExchangeInstrumentID": "38975",
+        "displayName": "TITAN",
+        "ticker": "TITAN24NOVFUT",
+        "LastTradedPrice": 3173.8,
+        "LastTradedQuantity": 175,
+        "TotalTradedQuantity": 1294125
+    },
+    "35596": {
+        "ExchangeInstrumentID": "35596",
+        "displayName": "ADANIENT",
+        "ticker": "ADANIENT24NOVFUT",
+        "LastTradedPrice": 2821.65,
+        "LastTradedQuantity": 300,
+        "TotalTradedQuantity": 1475100
+    },
+    "35859": {
+        "ExchangeInstrumentID": "35859",
+        "displayName": "BAJFINANCE",
+        "ticker": "BAJFINANCE24NOVFUT",
+        "LastTradedPrice": 6563.95,
+        "LastTradedQuantity": 125,
+        "TotalTradedQuantity": 1009000
+    },
+    "36722": {
+        "ExchangeInstrumentID": "36722",
+        "displayName": "CIPLA",
+        "ticker": "CIPLA24DECFUT",
+        "LastTradedPrice": 1508.65,
+        "LastTradedQuantity": 325,
+        "TotalTradedQuantity": 118950
+    },
+    "37700": {
+        "ExchangeInstrumentID": "37700",
+        "displayName": "HINDALCO",
+        "ticker": "HINDALCO24DECFUT",
+        "LastTradedPrice": 630.15,
+        "LastTradedQuantity": 1400,
+        "TotalTradedQuantity": 838600
+    },
+    "38989": {
+        "ExchangeInstrumentID": "38989",
+        "displayName": "WIPRO",
+        "ticker": "WIPRO24NOVFUT",
+        "LastTradedPrice": 565.95,
+        "LastTradedQuantity": 1500,
+        "TotalTradedQuantity": 5745000
+    },
+    "38955": {
+        "ExchangeInstrumentID": "38955",
+        "displayName": "TATASTEEL",
+        "ticker": "TATASTEEL24NOVFUT",
+        "LastTradedPrice": 137.81,
+        "LastTradedQuantity": 5500,
+        "TotalTradedQuantity": 41690000
+    },
+    "40274": {
+        "ExchangeInstrumentID": "40274",
+        "displayName": "SUNPHARMA",
+        "ticker": "SUNPHARMA24DECFUT",
+        "LastTradedPrice": 1783.3,
+        "LastTradedQuantity": 350,
+        "TotalTradedQuantity": 127400
+    },
+    "40302": {
+        "ExchangeInstrumentID": "40302",
+        "displayName": "UPL",
+        "ticker": "UPL24DECFUT",
+        "LastTradedPrice": 526.6,
+        "LastTradedQuantity": 1300,
+        "TotalTradedQuantity": 808600
+    },
+    "35643": {
+        "ExchangeInstrumentID": "35643",
+        "displayName": "BPCL",
+        "ticker": "BPCL24DECFUT",
+        "LastTradedPrice": 298.45,
+        "LastTradedQuantity": 1800,
+        "TotalTradedQuantity": 1251000
+    },
+    "35336": {
+        "ExchangeInstrumentID": "35336",
+        "displayName": "BHARTIARTL",
+        "ticker": "BHARTIARTL24DECFUT",
+        "LastTradedPrice": 1564,
+        "LastTradedQuantity": 475,
+        "TotalTradedQuantity": 336300
+    },
+    "36629": {
+        "ExchangeInstrumentID": "36629",
+        "displayName": "BHARTIARTL",
+        "ticker": "BHARTIARTL24NOVFUT",
+        "LastTradedPrice": 1554.5,
+        "LastTradedQuantity": 475,
+        "TotalTradedQuantity": 4091175
+    },
+    "40254": {
+        "ExchangeInstrumentID": "40254",
+        "displayName": "POWERGRID",
+        "ticker": "POWERGRID24DECFUT",
+        "LastTradedPrice": 314.9,
+        "LastTradedQuantity": 1800,
+        "TotalTradedQuantity": 932400
+    },
+    "35287": {
+        "ExchangeInstrumentID": "35287",
+        "displayName": "AXISBANK",
+        "ticker": "AXISBANK24DECFUT",
+        "LastTradedPrice": 1149.65,
+        "LastTradedQuantity": 625,
+        "TotalTradedQuantity": 463125
+    },
+    "35290": {
+        "ExchangeInstrumentID": "35290",
+        "displayName": "BAJAJFINSV",
+        "ticker": "BAJAJFINSV24DECFUT",
+        "LastTradedPrice": 1654.1,
+        "LastTradedQuantity": 500,
+        "TotalTradedQuantity": 170000
+    },
+    "37688": {
+        "ExchangeInstrumentID": "37688",
+        "displayName": "HDFCBANK",
+        "ticker": "HDFCBANK24DECFUT",
+        "LastTradedPrice": 1707.55,
+        "LastTradedQuantity": 550,
+        "TotalTradedQuantity": 1236400
+    },
+    "37689": {
+        "ExchangeInstrumentID": "37689",
+        "displayName": "HDFCLIFE",
+        "ticker": "HDFCLIFE24DECFUT",
+        "LastTradedPrice": 700.3,
+        "LastTradedQuantity": 1100,
+        "TotalTradedQuantity": 268400
+    },
+    "38751": {
+        "ExchangeInstrumentID": "38751",
+        "displayName": "ICICIBANK",
+        "ticker": "ICICIBANK24NOVFUT",
+        "LastTradedPrice": 1256.3,
+        "LastTradedQuantity": 700,
+        "TotalTradedQuantity": 16619400
+    },
+    "35102": {
+        "ExchangeInstrumentID": "35102",
+        "displayName": "APOLLOHOSP",
+        "ticker": "APOLLOHOSP24DECFUT",
+        "LastTradedPrice": 6895,
+        "LastTradedQuantity": 125,
+        "TotalTradedQuantity": 14750
+    },
+    "38349": {
+        "ExchangeInstrumentID": "38349",
+        "displayName": "INFY",
+        "ticker": "INFY24DECFUT",
+        "LastTradedPrice": 1877.9,
+        "LastTradedQuantity": 400,
+        "TotalTradedQuantity": 318800
+    },
+    "39352": {
+        "ExchangeInstrumentID": "39352",
+        "displayName": "ONGC",
+        "ticker": "ONGC24DECFUT",
+        "LastTradedPrice": 252.9,
+        "LastTradedQuantity": 1925,
+        "TotalTradedQuantity": 1661275
+    },
+    "38737": {
+        "ExchangeInstrumentID": "38737",
+        "displayName": "HDFCBANK",
+        "ticker": "HDFCBANK24NOVFUT",
+        "LastTradedPrice": 1696.65,
+        "LastTradedQuantity": 550,
+        "TotalTradedQuantity": 17810100
+    },
+    "40266": {
+        "ExchangeInstrumentID": "40266",
+        "displayName": "SBILIFE",
+        "ticker": "SBILIFE24DECFUT",
+        "LastTradedPrice": 1574.95,
+        "LastTradedQuantity": 375,
+        "TotalTradedQuantity": 41625
+    },
+    "35644": {
+        "ExchangeInstrumentID": "35644",
+        "displayName": "BRITANNIA",
+        "ticker": "BRITANNIA24DECFUT",
+        "LastTradedPrice": 4944.95,
+        "LastTradedQuantity": 100,
+        "TotalTradedQuantity": 58300
+    },
+    "38914": {
+        "ExchangeInstrumentID": "38914",
+        "displayName": "RELIANCE",
+        "ticker": "RELIANCE24NOVFUT",
+        "LastTradedPrice": 1273.7,
+        "LastTradedQuantity": 500,
+        "TotalTradedQuantity": 16989500
+    },
+    "38970": {
+        "ExchangeInstrumentID": "38970",
+        "displayName": "TECHM",
+        "ticker": "TECHM24NOVFUT",
+        "LastTradedPrice": 1683.25,
+        "LastTradedQuantity": 600,
+        "TotalTradedQuantity": 2049000
+    },
+    "40300": {
+        "ExchangeInstrumentID": "40300",
+        "displayName": "ULTRACEMCO",
+        "ticker": "ULTRACEMCO24DECFUT",
+        "LastTradedPrice": 10775.3,
+        "LastTradedQuantity": 50,
+        "TotalTradedQuantity": 29850
+    },
+    "38937": {
+        "ExchangeInstrumentID": "38937",
+        "displayName": "SUNPHARMA",
+        "ticker": "SUNPHARMA24NOVFUT",
+        "LastTradedPrice": 1772.7,
+        "LastTradedQuantity": 350,
+        "TotalTradedQuantity": 1744400
+    },
+    "36668": {
+        "ExchangeInstrumentID": "36668",
+        "displayName": "BRITANNIA",
+        "ticker": "BRITANNIA24NOVFUT",
+        "LastTradedPrice": 4911.25,
+        "LastTradedQuantity": 100,
+        "TotalTradedQuantity": 745000
+    },
+    "39285": {
+        "ExchangeInstrumentID": "39285",
+        "displayName": "M&M",
+        "ticker": "M&M24DECFUT",
+        "LastTradedPrice": 2822.3,
+        "LastTradedQuantity": 175,
+        "TotalTradedQuantity": 275100
+    },
+    "39325": {
+        "ExchangeInstrumentID": "39325",
+        "displayName": "NTPC",
+        "ticker": "NTPC24DECFUT",
+        "LastTradedPrice": 376.1,
+        "LastTradedQuantity": 1500,
+        "TotalTradedQuantity": 1482000
+    },
+    "38875": {
+        "ExchangeInstrumentID": "38875",
+        "displayName": "ONGC",
+        "ticker": "ONGC24NOVFUT",
+        "LastTradedPrice": 251.5,
+        "LastTradedQuantity": 1925,
+        "TotalTradedQuantity": 13858075
+    },
+    "40287": {
+        "ExchangeInstrumentID": "40287",
+        "displayName": "TATASTEEL",
+        "ticker": "TATASTEEL24DECFUT",
+        "LastTradedPrice": 138.74,
+        "LastTradedQuantity": 5500,
+        "TotalTradedQuantity": 7133500
+    },
+    "40268": {
+        "ExchangeInstrumentID": "40268",
+        "displayName": "SHREECEM",
+        "ticker": "SHREECEM24DECFUT",
+        "LastTradedPrice": 23893.95,
+        "LastTradedQuantity": 25,
+        "TotalTradedQuantity": 4450
+    },
+    "38739": {
+        "ExchangeInstrumentID": "38739",
+        "displayName": "HDFCLIFE",
+        "ticker": "HDFCLIFE24NOVFUT",
+        "LastTradedPrice": 695.5,
+        "LastTradedQuantity": 1100,
+        "TotalTradedQuantity": 3224100
+    },
+    "38732": {
+        "ExchangeInstrumentID": "38732",
+        "displayName": "HCLTECH",
+        "ticker": "HCLTECH24NOVFUT",
+        "LastTradedPrice": 1856.45,
+        "LastTradedQuantity": 350,
+        "TotalTradedQuantity": 2558150
+    },
+    "37845": {
+        "ExchangeInstrumentID": "37845",
+        "displayName": "HINDUNILVR",
+        "ticker": "HINDUNILVR24DECFUT",
+        "LastTradedPrice": 2408.45,
+        "LastTradedQuantity": 300,
+        "TotalTradedQuantity": 281700
+    },
+    "37285": {
+        "ExchangeInstrumentID": "37285",
+        "displayName": "COALINDIA",
+        "ticker": "COALINDIA24NOVFUT",
+        "LastTradedPrice": 411.4,
+        "LastTradedQuantity": 1050,
+        "TotalTradedQuantity": 11267550
+    },
+    "37108": {
+        "ExchangeInstrumentID": "37108",
+        "displayName": "DIVISLAB",
+        "ticker": "DIVISLAB24DECFUT",
+        "LastTradedPrice": 5775,
+        "LastTradedQuantity": 100,
+        "TotalTradedQuantity": 23300
+    },
+    "38796": {
+        "ExchangeInstrumentID": "38796",
+        "displayName": "KOTAKBANK",
+        "ticker": "KOTAKBANK24NOVFUT",
+        "LastTradedPrice": 1707.75,
+        "LastTradedQuantity": 400,
+        "TotalTradedQuantity": 4697600
+    },
+    "36667": {
+        "ExchangeInstrumentID": "36667",
+        "displayName": "BPCL",
+        "ticker": "BPCL24NOVFUT",
+        "LastTradedPrice": 297.6,
+        "LastTradedQuantity": 1800,
+        "TotalTradedQuantity": 18327600
+    },
+    "36723": {
+        "ExchangeInstrumentID": "36723",
+        "displayName": "COALINDIA",
+        "ticker": "COALINDIA24DECFUT",
+        "LastTradedPrice": 414.2,
+        "LastTradedQuantity": 1050,
+        "TotalTradedQuantity": 926100
+    },
+    "39093": {
+        "ExchangeInstrumentID": "39093",
+        "displayName": "JSWSTEEL",
+        "ticker": "JSWSTEEL24DECFUT",
+        "LastTradedPrice": 944.9,
+        "LastTradedQuantity": 675,
+        "TotalTradedQuantity": 236250
+    },
+    "39320": {
+        "ExchangeInstrumentID": "39320",
+        "displayName": "NESTLEIND",
+        "ticker": "NESTLEIND24DECFUT",
+        "LastTradedPrice": 2204,
+        "LastTradedQuantity": 200,
+        "TotalTradedQuantity": 186800
+    },
+    "38931": {
+        "ExchangeInstrumentID": "38931",
+        "displayName": "SBILIFE",
+        "ticker": "SBILIFE24NOVFUT",
+        "LastTradedPrice": 1564.25,
+        "LastTradedQuantity": 375,
+        "TotalTradedQuantity": 1171500
+    },
+    "37846": {
+        "ExchangeInstrumentID": "37846",
+        "displayName": "ICICIBANK",
+        "ticker": "ICICIBANK24DECFUT",
+        "LastTradedPrice": 1264.35,
+        "LastTradedQuantity": 700,
+        "TotalTradedQuantity": 808500
+    },
+    "40290": {
+        "ExchangeInstrumentID": "40290",
+        "displayName": "TITAN",
+        "ticker": "TITAN24DECFUT",
+        "LastTradedPrice": 3192.7,
+        "LastTradedQuantity": 175,
+        "TotalTradedQuantity": 99050
+    },
+    "35059": {
+        "ExchangeInstrumentID": "35059",
+        "displayName": "ADANIENT",
+        "ticker": "ADANIENT24DECFUT",
+        "LastTradedPrice": 2840.45,
+        "LastTradedQuantity": 300,
+        "TotalTradedQuantity": 135900
+    },
+    "35289": {
+        "ExchangeInstrumentID": "35289",
+        "displayName": "BAJAJ-AUTO",
+        "ticker": "BAJAJ-AUTO24DECFUT",
+        "LastTradedPrice": 9555.2,
+        "LastTradedQuantity": 75,
+        "TotalTradedQuantity": 26325
+    },
+    "38789": {
+        "ExchangeInstrumentID": "38789",
+        "displayName": "ITC",
+        "ticker": "ITC24NOVFUT",
+        "LastTradedPrice": 466.25,
+        "LastTradedQuantity": 1600,
+        "TotalTradedQuantity": 13115200
+    },
+    "38792": {
+        "ExchangeInstrumentID": "38792",
+        "displayName": "JSWSTEEL",
+        "ticker": "JSWSTEEL24NOVFUT",
+        "LastTradedPrice": 938.85,
+        "LastTradedQuantity": 675,
+        "TotalTradedQuantity": 3332475
+    },
+    "38786": {
+        "ExchangeInstrumentID": "38786",
+        "displayName": "IOC",
+        "ticker": "IOC24NOVFUT",
+        "LastTradedPrice": 135.47,
+        "LastTradedQuantity": 4875,
+        "TotalTradedQuantity": 22727250
+    },
+    "35855": {
+        "ExchangeInstrumentID": "35855",
+        "displayName": "BAJAJ-AUTO",
+        "ticker": "BAJAJ-AUTO24NOVFUT",
+        "LastTradedPrice": 9496.35,
+        "LastTradedQuantity": 75,
+        "TotalTradedQuantity": 442725
+    },
+    "38953": {
+        "ExchangeInstrumentID": "38953",
+        "displayName": "TATAMOTORS",
+        "ticker": "TATAMOTORS24NOVFUT",
+        "LastTradedPrice": 777.9,
+        "LastTradedQuantity": 550,
+        "TotalTradedQuantity": 11279950
+    },
+    "38980": {
+        "ExchangeInstrumentID": "38980",
+        "displayName": "ULTRACEMCO",
+        "ticker": "ULTRACEMCO24NOVFUT",
+        "LastTradedPrice": 10740.9,
+        "LastTradedQuantity": 50,
+        "TotalTradedQuantity": 378800
+    },
+    "40289": {
+        "ExchangeInstrumentID": "40289",
+        "displayName": "TECHM",
+        "ticker": "TECHM24DECFUT",
+        "LastTradedPrice": 1693.3,
+        "LastTradedQuantity": 600,
+        "TotalTradedQuantity": 180000
+    },
+    "40285": {
+        "ExchangeInstrumentID": "40285",
+        "displayName": "TATAMOTORS",
+        "ticker": "TATAMOTORS24DECFUT",
+        "LastTradedPrice": 782.65,
+        "LastTradedQuantity": 550,
+        "TotalTradedQuantity": 2163700
+    },
+    "38750": {
+        "ExchangeInstrumentID": "38750",
+        "displayName": "HINDUNILVR",
+        "ticker": "HINDUNILVR24NOVFUT",
+        "LastTradedPrice": 2392.95,
+        "LastTradedQuantity": 300,
+        "TotalTradedQuantity": 2652600
+    },
+    "38350": {
+        "ExchangeInstrumentID": "38350",
+        "displayName": "IOC",
+        "ticker": "IOC24DECFUT",
+        "LastTradedPrice": 136.35,
+        "LastTradedQuantity": 4875,
+        "TotalTradedQuantity": 3753750
+    },
+    "37639": {
+        "ExchangeInstrumentID": "37639",
+        "displayName": "GRASIM",
+        "ticker": "GRASIM24DECFUT",
+        "LastTradedPrice": 2527.1,
+        "LastTradedQuantity": 250,
+        "TotalTradedQuantity": 59000
+    },
+    "38821": {
+        "ExchangeInstrumentID": "38821",
+        "displayName": "M&M",
+        "ticker": "M&M24NOVFUT",
+        "LastTradedPrice": 2804.85,
+        "LastTradedQuantity": 175,
+        "TotalTradedQuantity": 3240825
+    },
+    "35065": {
+        "ExchangeInstrumentID": "35065",
+        "displayName": "ADANIPORTS",
+        "ticker": "ADANIPORTS24DECFUT",
+        "LastTradedPrice": 1274.55,
+        "LastTradedQuantity": 400,
+        "TotalTradedQuantity": 778800
+    },
+    "35291": {
+        "ExchangeInstrumentID": "35291",
+        "displayName": "BAJFINANCE",
+        "ticker": "BAJFINANCE24DECFUT",
+        "LastTradedPrice": 6607.35,
+        "LastTradedQuantity": 125,
+        "TotalTradedQuantity": 90125
+    },
+    "35775": {
+        "ExchangeInstrumentID": "35775",
+        "displayName": "ASIANPAINT",
+        "ticker": "ASIANPAINT24NOVFUT",
+        "LastTradedPrice": 2478.15,
+        "LastTradedQuantity": 400,
+        "TotalTradedQuantity": 1343600
+    },
+    "38783": {
+        "ExchangeInstrumentID": "38783",
+        "displayName": "INFY",
+        "ticker": "INFY24NOVFUT",
+        "LastTradedPrice": 1866.65,
+        "LastTradedQuantity": 400,
+        "TotalTradedQuantity": 5017600
+    },
+    "38908": {
+        "ExchangeInstrumentID": "38908",
+        "displayName": "POWERGRID",
+        "ticker": "POWERGRID24NOVFUT",
+        "LastTradedPrice": 312.9,
+        "LastTradedQuantity": 1800,
+        "TotalTradedQuantity": 13921200
+    },
+    "38986": {
+        "ExchangeInstrumentID": "38986",
+        "displayName": "UPL",
+        "ticker": "UPL24NOVFUT",
+        "LastTradedPrice": 523.45,
+        "LastTradedQuantity": 2600,
+        "TotalTradedQuantity": 7190300
+    },
+    "40288": {
+        "ExchangeInstrumentID": "40288",
+        "displayName": "TCS",
+        "ticker": "TCS24DECFUT",
+        "LastTradedPrice": 4166.85,
+        "LastTradedQuantity": 175,
+        "TotalTradedQuantity": 124950
+    },
+    "37303": {
+        "ExchangeInstrumentID": "37303",
+        "displayName": "DRREDDY",
+        "ticker": "DRREDDY24DECFUT",
+        "LastTradedPrice": 1237.95,
+        "LastTradedQuantity": 625,
+        "TotalTradedQuantity": 79375
+    },
+    "35600": {
+        "ExchangeInstrumentID": "35600",
+        "displayName": "APOLLOHOSP",
+        "ticker": "APOLLOHOSP24NOVFUT",
+        "LastTradedPrice": 6849.65,
+        "LastTradedQuantity": 125,
+        "TotalTradedQuantity": 321000
+    },
+    "37699": {
+        "ExchangeInstrumentID": "37699",
+        "displayName": "HEROMOTOCO",
+        "ticker": "HEROMOTOCO24DECFUT",
+        "LastTradedPrice": 4636.7,
+        "LastTradedQuantity": 150,
+        "TotalTradedQuantity": 96150
+    },
+    "35858": {
+        "ExchangeInstrumentID": "35858",
+        "displayName": "BAJAJFINSV",
+        "ticker": "BAJAJFINSV24NOVFUT",
+        "LastTradedPrice": 1643.2,
+        "LastTradedQuantity": 500,
+        "TotalTradedQuantity": 2048500
+    },
+    "38933": {
+        "ExchangeInstrumentID": "38933",
+        "displayName": "SHREECEM",
+        "ticker": "SHREECEM24NOVFUT",
+        "LastTradedPrice": 24051.2,
+        "LastTradedQuantity": 25,
+        "TotalTradedQuantity": 47275
+    },
+    "38695": {
+        "ExchangeInstrumentID": "38695",
+        "displayName": "DRREDDY",
+        "ticker": "DRREDDY24NOVFUT",
+        "LastTradedPrice": 1231.05,
+        "LastTradedQuantity": 625,
+        "TotalTradedQuantity": 1588125
+    },
+    "40311": {
+        "ExchangeInstrumentID": "40311",
+        "displayName": "WIPRO",
+        "ticker": "WIPRO24DECFUT",
+        "LastTradedPrice": 569.1,
+        "LastTradedQuantity": 1500,
+        "TotalTradedQuantity": 459000
+    },
+    "40267": {
+        "ExchangeInstrumentID": "40267",
+        "displayName": "SBIN",
+        "ticker": "SBIN24DECFUT",
+        "LastTradedPrice": 810.85,
+        "LastTradedQuantity": 750,
+        "TotalTradedQuantity": 1847250
+    },
+    "39100": {
+        "ExchangeInstrumentID": "39100",
+        "displayName": "LT",
+        "ticker": "LT24DECFUT",
+        "LastTradedPrice": 3555.2,
+        "LastTradedQuantity": 150,
+        "TotalTradedQuantity": 221400
+    },
+    "37284": {
+        "ExchangeInstrumentID": "37284",
+        "displayName": "CIPLA",
+        "ticker": "CIPLA24NOVFUT",
+        "LastTradedPrice": 1499.7,
+        "LastTradedQuantity": 325,
+        "TotalTradedQuantity": 1523600
+    },
+    "38689": {
+        "ExchangeInstrumentID": "38689",
+        "displayName": "DIVISLAB",
+        "ticker": "DIVISLAB24NOVFUT",
+        "LastTradedPrice": 5744.9,
+        "LastTradedQuantity": 100,
+        "TotalTradedQuantity": 336000
+    },
+    "35854": {
+        "ExchangeInstrumentID": "35854",
+        "displayName": "AXISBANK",
+        "ticker": "AXISBANK24NOVFUT",
+        "LastTradedPrice": 1142.65,
+        "LastTradedQuantity": 625,
+        "TotalTradedQuantity": 8445000
+    },
+    "40263": {
+        "ExchangeInstrumentID": "40263",
+        "displayName": "RELIANCE",
+        "ticker": "RELIANCE24DECFUT",
+        "LastTradedPrice": 1281.35,
+        "LastTradedQuantity": 500,
+        "TotalTradedQuantity": 2394000
+    },
+    "37305": {
+        "ExchangeInstrumentID": "37305",
+        "displayName": "EICHERMOT",
+        "ticker": "EICHERMOT24DECFUT",
+        "LastTradedPrice": 4904.95,
+        "LastTradedQuantity": 175,
+        "TotalTradedQuantity": 371875
+    },
+    "38872": {
+        "ExchangeInstrumentID": "38872",
+        "displayName": "NTPC",
+        "ticker": "NTPC24NOVFUT",
+        "LastTradedPrice": 373.7,
+        "LastTradedQuantity": 4500,
+        "TotalTradedQuantity": 17427000
+    },
+    "39095": {
+        "ExchangeInstrumentID": "39095",
+        "displayName": "KOTAKBANK",
+        "ticker": "KOTAKBANK24DECFUT",
+        "LastTradedPrice": 1718.9,
+        "LastTradedQuantity": 400,
+        "TotalTradedQuantity": 239600
+    },
+    "38346": {
+        "ExchangeInstrumentID": "38346",
+        "displayName": "INDUSINDBK",
+        "ticker": "INDUSINDBK24DECFUT",
+        "LastTradedPrice": 1025.3,
+        "LastTradedQuantity": 500,
+        "TotalTradedQuantity": 611000
+    },
+    "38741": {
+        "ExchangeInstrumentID": "38741",
+        "displayName": "HINDALCO",
+        "ticker": "HINDALCO24NOVFUT",
+        "LastTradedPrice": 625.55,
+        "LastTradedQuantity": 1400,
+        "TotalTradedQuantity": 10267600
+    },
+    "38865": {
+        "ExchangeInstrumentID": "38865",
+        "displayName": "NESTLEIND",
+        "ticker": "NESTLEIND24NOVFUT",
+        "LastTradedPrice": 2191,
+        "LastTradedQuantity": 200,
+        "TotalTradedQuantity": 993600
+    },
+    "38832": {
+        "ExchangeInstrumentID": "38832",
+        "displayName": "MARUTI",
+        "ticker": "MARUTI24NOVFUT",
+        "LastTradedPrice": 10982.75,
+        "LastTradedQuantity": 50,
+        "TotalTradedQuantity": 465850
+    },
+    "38816": {
+        "ExchangeInstrumentID": "38816",
+        "displayName": "LT",
+        "ticker": "LT24NOVFUT",
+        "LastTradedPrice": 3532.95,
+        "LastTradedQuantity": 150,
+        "TotalTradedQuantity": 1830300
+    },
+    "38728": {
+        "ExchangeInstrumentID": "38728",
+        "displayName": "GRASIM",
+        "ticker": "GRASIM24NOVFUT",
+        "LastTradedPrice": 2512.6,
+        "LastTradedQuantity": 250,
+        "TotalTradedQuantity": 1365500
+    },
+    "38780": {
+        "ExchangeInstrumentID": "38780",
+        "displayName": "INDUSINDBK",
+        "ticker": "INDUSINDBK24NOVFUT",
+        "LastTradedPrice": 1019.25,
+        "LastTradedQuantity": 500,
+        "TotalTradedQuantity": 4738500
+    },
+    "39298": {
+        "ExchangeInstrumentID": "39298",
+        "displayName": "MARUTI",
+        "ticker": "MARUTI24DECFUT",
+        "LastTradedPrice": 11056.75,
+        "LastTradedQuantity": 50,
+        "TotalTradedQuantity": 36200
+    },
+    "38740": {
+        "ExchangeInstrumentID": "38740",
+        "displayName": "HEROMOTOCO",
+        "ticker": "HEROMOTOCO24NOVFUT",
+        "LastTradedPrice": 4612.55,
+        "LastTradedQuantity": 150,
+        "TotalTradedQuantity": 1658100
+    },
+    "38932": {
+        "ExchangeInstrumentID": "38932",
+        "displayName": "SBIN",
+        "ticker": "SBIN24NOVFUT",
+        "LastTradedPrice": 805.75,
+        "LastTradedQuantity": 1500,
+        "TotalTradedQuantity": 20583000
+    },
+    "35244": {
+        "ExchangeInstrumentID": "35244",
+        "displayName": "ASIANPAINT",
+        "ticker": "ASIANPAINT24DECFUT",
+        "LastTradedPrice": 2489.2,
+        "LastTradedQuantity": 200,
+        "TotalTradedQuantity": 208600
+    },
+    "38969": {
+        "ExchangeInstrumentID": "38969",
+        "displayName": "TCS",
+        "ticker": "TCS24NOVFUT",
+        "LastTradedPrice": 4140.5,
+        "LastTradedQuantity": 175,
+        "TotalTradedQuantity": 1524950
+    },
+    "37678": {
+        "ExchangeInstrumentID": "37678",
+        "displayName": "HCLTECH",
+        "ticker": "HCLTECH24DECFUT",
+        "LastTradedPrice": 1868.6,
+        "LastTradedQuantity": 350,
+        "TotalTradedQuantity": 219450
+    },
+    "38697": {
+        "ExchangeInstrumentID": "38697",
+        "displayName": "EICHERMOT",
+        "ticker": "EICHERMOT24NOVFUT",
+        "LastTradedPrice": 4875.1,
+        "LastTradedQuantity": 175,
+        "TotalTradedQuantity": 5139225
+    },
+    "35597": {
+        "ExchangeInstrumentID": "35597",
+        "displayName": "ADANIPORTS",
+        "ticker": "ADANIPORTS24NOVFUT",
+        "LastTradedPrice": 1266.45,
+        "LastTradedQuantity": 400,
+        "TotalTradedQuantity": 3028400
+    },
+    "38959": {
+        "ExchangeInstrumentID": "38959",
+        "displayName": "ITC",
+        "ticker": "ITC24DECFUT",
+        "LastTradedPrice": 468.65,
+        "LastTradedQuantity": 1600,
+        "TotalTradedQuantity": 1508800
+    }
+}
